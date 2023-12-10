@@ -1,4 +1,4 @@
-[2:47 pm, 30/11/2023] +91 95606 82727: #include<stdio.h>
+ #include<stdio.h>
 void printboard();
 int checkwin();
 void system();
